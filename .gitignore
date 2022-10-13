@@ -7,6 +7,9 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea
+out
+UnbeatableTicTacToeJava.iml
 
 # AWS User-specific
 .idea/**/aws.xml
